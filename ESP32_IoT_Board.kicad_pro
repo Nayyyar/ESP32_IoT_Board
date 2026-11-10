@@ -409,11 +409,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
+    "top_level_sheets": [
+      {
+        "filename": "ESP32_IoT_Board.kicad_sch",
+        "name": "ESP32_IoT_Board",
+        "uuid": "912ac22b-f64d-42ba-afd3-5a7b99375d77"
+      }
+    ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "912ac22b-f64d-42ba-afd3-5a7b99375d77",
+      "ESP32_IoT_Board"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
